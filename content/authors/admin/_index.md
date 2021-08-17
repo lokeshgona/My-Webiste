@@ -1,6 +1,6 @@
 ---
 title: Lokesh Gona
-role: Advanced Power Electronics Engineer (for electric cars) at BorgWarner
+role: Advanced Power Electronics Engineer (for electric cars)
 bio: Designing Power Electronics for Electric Cars at work. AI for good,
   robotics and games when not at work
 interests:
