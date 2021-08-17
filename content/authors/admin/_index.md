@@ -1,6 +1,6 @@
 ---
 title: Lokesh Gona
-role: Advanced Power Electronics Engineer (for electric cars)
+role: Advanced Power Electronics Engineer (Electric cars)
 bio: Designing Power Electronics for Electric Cars at work. AI for good,
   robotics and games when not at work
 interests:
@@ -10,7 +10,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: lokeshgona@gmail.com
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/lokeshgona
@@ -32,7 +34,7 @@ education:
     - course: Bachelor's in Electronics and Communications Engineering
       institution: Jawaharlal Nehru Technological University
       year: 2013
-email: lokeshgona@gmail.com
+email: ""
 superuser: true
 highlight_name: false
 ---
