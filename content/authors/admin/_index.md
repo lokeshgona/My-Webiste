@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lokeshgona@gmail.com
+    link: mailto:lokeshgona@gmail.com
     display:
       header: true
   - icon: github
