@@ -36,7 +36,7 @@ education:
       year: 2013
 email: "lokeshgona@gmail.com"
 superuser: true
-highlight_name: true
+highlight_name: false
 ---
 I do research and design of Power Electronics for electric cars in the Advanced group at BorgWarner.
 
@@ -44,4 +44,4 @@ AI for good, robotics and games when not at work
 
 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
