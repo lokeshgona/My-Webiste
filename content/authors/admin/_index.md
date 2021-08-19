@@ -30,11 +30,11 @@ education:
   courses:
     - course: Master's in Applied Physics
       institution: Michigan Technological University
-      year: 2015
+      year: 2016
     - course: Bachelor's in Electronics and Communications Engineering
       institution: Jawaharlal Nehru Technological University
       year: 2013
-email: "lokeshgona@gmail.com"
+email: ""
 superuser: true
 highlight_name: false
 ---
