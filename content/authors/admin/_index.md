@@ -5,7 +5,7 @@ bio:
 interests:
   - Deep Learning and Deep RL for Robotics
   - Continual/Incremental Learning
-  - AI in low-powered embedded systems for practical applications
+  - AI in low-powered embedded systems
   - Electric and Autonomous vehicles
 social:
   - icon: envelope
@@ -38,9 +38,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Work: I am currently working on the future of electric mobility at BorgWarner. Designing Hardware and algorithmic solutions for efficient and safe control of electric motors in vehicles.
+I am currently working on the future of electric mobility at BorgWarner. Designing Hardware and algorithmic solutions for efficient and safe control of electric motors in vehicles.
 
-Outside of work: Have been exploring Deep Learning and Reinforcement Learning techniques for practical use cases in various applications.
+__Outside of work__: Have been exploring Deep Learning, Deep Reinforcement Learning techniques due to my longstanding interest in Robotics and other intelligent systems. Limited time and computing resources basically prevent me from trying anything major. Glad to see recent progress in Massively parallel GPU accelerated simulators/environments (Brax, Nvidia Isaac gym, Habitat sim...) that brought down the time needed for training from days to hours on an average gaming PC. I believe that efficient algorithms with **generalization** accross multiple tasks and **incremental/continual learning** ability are necessary for achieving **truly intelligent systems**. 
 
 
 
