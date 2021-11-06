@@ -1,11 +1,11 @@
 ---
 title: Lokesh Gona
-role: Advanced Power Electronics Engineer (Electric cars)
-bio: Designing Power Electronics for Electric Cars at work. AI for good,
-  robotics and games when not at work
+role: Advanced eHardware Architect (Electric vehicles)
+bio: 
 interests:
-  - AI for Robotics and Games
-  - Ai for low-powered embedded systems
+  - Deep Learning and Deep RL for Robotics
+  - Continual/Incremental Learning
+  - AI in low-powered embedded systems for practical applications
   - Electric and Autonomous vehicles
 social:
   - icon: envelope
@@ -28,7 +28,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Master's in Applied Physics
+    - course: Master's in Applied Physics (Nanophotonics and Electrophysics)
       institution: Michigan Technological University
       year: 2016
     - course: Bachelor's in Electronics and Communications Engineering
@@ -38,10 +38,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I do research and design of Power Electronics for electric cars in the Advanced group at BorgWarner.
+Work: I am currently working on the future of electric mobility at BorgWarner. Designing Hardware and algorithmic solutions for efficient and safe control of electric motors in vehicles.
 
-AI for good, robotics and games when not at work
+Outside of work: Have been exploring Deep Learning and Reinforcement Learning techniques for practical use cases in various applications.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
